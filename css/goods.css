@@ -344,24 +344,22 @@ footer{
     width: 100%;
     height: 1.08rem;
     background: white;
-}
-footer a{
     display: flex;
 }
-footer a div{
+footer div{
     margin-left: 0.54rem;
     margin-top: 0.2rem;
 }
-footer a div img{
+footer div img{
     width: 0.49rem;
     height: 0.41rem;
 }
-footer a div p{
+footer div p{
     font-size: 0.2rem;
     color: #3bacfe;
     text-align: center;
 }
-footer a span{
+footer .jia{
     width: 1.96rem;
     height: 0.6rem;
     color: white;
@@ -372,6 +370,6 @@ footer a span{
     text-align: center;
     line-height: 0.6rem;
 }
-footer a > .a{
- background:#3bacfe;
-}
+/*footer .jia .aa{*/
+/* background:#3bacfe;*/
+/*}*/
