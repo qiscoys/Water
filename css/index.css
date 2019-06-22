@@ -50,10 +50,17 @@ header{
     border-radius: 0.3rem;
 }
 
-.banner{
+/*.banner{*/
+/*    width: 7.49rem;*/
+/*    height: 3.07rem;*/
+/*}*/
+.swiper-container{
     width: 7.49rem;
     height: 3.07rem;
 }
+
+
+
 .category{
     height: 6.9rem;
     padding:0.22rem;
